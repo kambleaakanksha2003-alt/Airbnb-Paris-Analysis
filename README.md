@@ -1,5 +1,3 @@
-[Click here to see my project](https://github.com/username/repository)
-
 ![Paris Airbnb View](https://a0.muscache.com/im/pictures/miso/Hosting-734604376249298804/original/22c0ec92-d98f-4ff9-9cd3-faae73fdb31f.jpeg?im_w=1200
 
 # 🏠 Airbnb Paris Analysis
