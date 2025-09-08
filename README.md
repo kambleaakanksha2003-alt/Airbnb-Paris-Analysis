@@ -1,5 +1,7 @@
 ![Paris Airbnb View](https://a0.muscache.com/im/pictures/miso/Hosting-734604376249298804/original/22c0ec92-d98f-4ff9-9cd3-faae73fdb31f.jpeg?im_w=1200)
 
+[View my Kaggle Project](https://www.kaggle.com/code/akkkiiii0707/airbnb-python-project)
+
 # 🏠 Airbnb Paris Analysis
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
